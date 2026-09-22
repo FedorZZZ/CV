@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Fedor Zolotarev"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -58,7 +58,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/profile.php?id=100013057480993"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/fedor-zolotarev-637b7a202/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
